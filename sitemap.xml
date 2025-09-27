@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/index.html</loc>
-    <lastmod>2025-09-22T00:19:09.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_zodiac_sign/zodiac_sign.html</loc>
-    <lastmod>2025-09-22T00:19:09.978Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_test_post/index.html</loc>
-    <lastmod>2025-09-22T00:19:09.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_skincare_routine/skincare_routine.html</loc>
-    <lastmod>2025-09-22T00:19:09.978Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_texting_style/texting_style.html</loc>
-    <lastmod>2025-09-22T00:19:09.978Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_reality_tv/reality_tv.html</loc>
-    <lastmod>2025-09-22T00:19:09.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_reality_tv_children/reality_tv_children.html</loc>
-    <lastmod>2025-09-22T00:19:09.975Z</lastmod>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/about.html</loc>
+    <lastmod>2025-09-27T02:55:10.925Z</lastmod>
   </url>
   <url>
     <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/005_influencer_branding/influencer_branding.html</loc>
-    <lastmod>2025-09-22T00:19:09.978Z</lastmod>
+    <lastmod>2025-09-27T02:55:10.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/003_zodiac_sign/zodiac_sign.html</loc>
+    <lastmod>2025-09-27T02:55:10.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_reality_tv_children/reality_tv_children.html</loc>
+    <lastmod>2025-09-27T02:55:10.926Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/000_test_post/index.html</loc>
+    <lastmod>2025-09-27T02:55:10.926Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/index.html</loc>
+    <lastmod>2025-09-27T02:55:10.925Z</lastmod>
   </url>
   <url>
     <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/006_jeans_wars/jeans_wars.html</loc>
-    <lastmod>2025-09-22T00:19:09.978Z</lastmod>
+    <lastmod>2025-09-27T02:55:10.930Z</lastmod>
   </url>
   <url>
-    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/about.html</loc>
-    <lastmod>2025-09-22T00:19:09.973Z</lastmod>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/004_skincare_routine/skincare_routine.html</loc>
+    <lastmod>2025-09-27T02:55:10.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/007_animation_style/animation_style.html</loc>
+    <lastmod>2025-09-27T02:55:10.930Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/001_reality_tv/reality_tv.html</loc>
+    <lastmod>2025-09-27T02:55:10.926Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aitalias.github.io/comm4190_F25_Using_LLMs_Blog/posts/002_texting_style/texting_style.html</loc>
+    <lastmod>2025-09-27T02:55:10.930Z</lastmod>
   </url>
 </urlset>

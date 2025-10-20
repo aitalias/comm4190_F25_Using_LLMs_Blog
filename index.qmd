@@ -1,5 +1,5 @@
 ---
-title: Aitalia's Explorations with LLMs
+title: "Aitalia's Explorations with LLMs"
 listing:
   contents: posts
   sort: date desc

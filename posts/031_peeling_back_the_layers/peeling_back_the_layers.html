@@ -2,15 +2,15 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Aitalia Sharpe">
-<meta name="dcterms.date" content="2025-11-21">
-<meta name="description" content="My takeaways from Joy Buolamwini’s - Unmasking AI?">
+<meta name="dcterms.date" content="2025-10-15">
+<meta name="description" content="Diving deeper into Joy Buolamwini’s - Unmasking AI?">
 
-<title>Unmasking AI – My Explorations with LLMs</title>
+<title>Peeling Back The Layers – My Explorations with LLMs</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-0b37c64f34216b628666a8dac638b53b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -83,8 +83,6 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">My Explorations with LLMs</span>
     </a>
@@ -120,15 +118,15 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Unmasking AI</h1>
+      <h1 class="title">Peeling Back The Layers</h1>
                   <div>
         <div class="description">
-          My takeaways from Joy Buolamwini’s - Unmasking AI?
+          Diving deeper into Joy Buolamwini’s - Unmasking AI?
         </div>
       </div>
                           <div class="quarto-categories">
                 <div class="quarto-category">LLMs</div>
-                <div class="quarto-category">Learning</div>
+                <div class="quarto-category">Living with a book</div>
               </div>
                   </div>
   </div>
@@ -146,7 +144,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">November 21, 2025</p>
+        <p class="date">October 15, 2025</p>
       </div>
     </div>
     
@@ -165,31 +163,24 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><img src="ss_030_01.png" class="img-fluid"></p>
-<p><strong>Current Thoughts:</strong></p>
-<p>So I’ve been making my way through Unmasking AI by Joy Buolamwini, and I just hit around page 150. What’s really sticking with me from this section is how she breaks down the actual mechanics of how AI systems fail. But she doesn’t do it in a boring, textbook way. Instead, she uses these really concrete examples that make you go “oh wow, that’s actually terrifying.”</p>
-<p>One thing that jumped out at me is how she explains the whole training data problem. Basically, if you’re building a facial recognition system and you only feed it photos of white dudes, it’s going to be really good at recognizing white dudes and absolutely terrible at recognizing everyone else. She shows how this isn’t just a small glitch, but it’s baked into how these systems are designed from the ground up.</p>
-<p>What I appreciate is that she doesn’t just point fingers and call it a day. She actually walks through how she discovered these failures in her own research. There’s this moment where she’s testing facial recognition software on herself, and the system straight-up doesn’t detect her face until she puts on a white mask. That’s the algorithm literally not seeing her as human until she makes herself look white. It’s such a powerful image, and it really drives home how these supposedly “objective” systems are anything but.</p>
-<p>She also gets into the corporate side, discussing how companies rush these products to market without adequate testing across different demographics. The consequences are real: misidentifications, false arrests, and people being locked out of services they need. The stakes are incredibly high, especially for communities that are already over-policed and underserved. Overall, this section really solidified for me why this work matters. It’s not just about making better algorithms; it’s about questioning who builds them, how they’re tested, and who pays the price when they fail.</p>
-<p><strong>Questions and Reflections</strong></p>
+<p><img src="ss_031_01.png" class="img-fluid"></p>
+<section id="general-thoughts" class="level3">
+<h3 class="anchored" data-anchor-id="general-thoughts">General Thoughts</h3>
+<p>I’m about halfway through Joy Buolamwini’s “Unmasking AI,” and things are starting to intensify. What’s sticking with me from this section is how she breaks down the actual mechanics of how AI systems fail, and the fact that she’s doing it in a way that makes the details fascinating to non-technical readers.</p>
+<p>One thing that stuck out to me was how she explained the whole training data problem. Basically, if you’re building a facial recognition system and you only feed it one phenotype, it’s going to be really good at recognizing people with those features and woefully unsuccessful with everyone else. She shows how this isn’t just a small glitch, but the problem is baked into how these systems are designed.</p>
+<p>She also gets into the corporate side, discussing how companies rush these products to market without adequate testing across different demographics, producing consequences for users: misidentifications, false arrests, and people being locked out of services they need. The stakes are incredibly high, especially for minority communities that are already over-policed. Overall, this section really solidified the importance of this work.</p>
+</section>
+<section id="questions-and-reflections" class="level3">
+<h3 class="anchored" data-anchor-id="questions-and-reflections">Questions and Reflections:</h3>
 <ul>
-<li><strong>What specific technical concepts does the author explain, and how accessible are these explanations?</strong></li>
+<li>How does she characterize the responsibility of tech companies for systematic failures?</li>
 </ul>
-<p>She breaks down concepts like training data bias and accuracy rates across demographics. The explanations are really accessible because she uses real-world examples instead of heavy jargon. Even without a computer science background, you can follow along.</p>
+<p>She’s critical of how tech companies prioritize speed and profit over thorough testing. She calls for these institutions to consider who might be harmed by their systems before rushing them to market.</p>
 <ul>
-<li><strong>How does the author connect technical failures to broader social issues?</strong></li>
+<li>What patterns am I noticing in how AI failures manifest?</li>
 </ul>
-<p>She consistently links algorithmic failures back to systemic racism and sexism. When facial recognition fails on darker-skinned faces, she connects it to historical patterns of who gets seen and valued in society.</p>
-<ul>
-<li><strong>What examples of algorithmic harm does she provide?</strong></li>
-</ul>
-<p>She talks about facial recognition misidentifying people, which can lead to wrongful arrests. She also discusses how these systems are deployed in ways that disproportionately affect marginalized communities—especially in policing contexts.</p>
-<ul>
-<li><strong>Does the author discuss the role of tech companies</strong></li>
-</ul>
-<p>How does she characterize their responsibility? Yes, she’s critical of how tech companies prioritize speed and profit over thorough testing. She calls for these institutions to consider who might be harmed by their systems before rushing them to market.</p>
-<section id="im-excited-to-finish-the-book-and-see-what-other-criticisms-of-ai-buolamwini-discusses" class="level3">
-<h3 class="anchored" data-anchor-id="im-excited-to-finish-the-book-and-see-what-other-criticisms-of-ai-buolamwini-discusses">I’m excited to finish the book and see what other criticisms of AI Buolamwini discusses!</h3>
+<p>There’s a clear pattern: the people who build AI systems often don’t represent the diversity of people who will be affected by them. This leads to blind spots that become embedded in the technology itself. The failures aren’t random—they consistently harm the same groups of people.</p>
+<p><strong>The book is building a compelling case that AI bias isn’t a technical problem with a purely technical solution. It’s a social justice issue that requires us to fundamentally rethink how we approach these technologies.</strong></p>
 
 
 </section>

@@ -2,8 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/033_ai_unmasked/ai_unmasked.html",
+      "/posts/032_further_understanding_ai/further_understanding_ai.html",
       "/posts/029_beat_the_wordle/beat_the_wordle.html",
-      "/posts/030_unmasking_ai/unmasking_ai.html",
       "/posts/028_dance_with_ai/dance_with_ai.html",
       "/posts/027_generative_artistry/generative_artistry.html",
       "/posts/026_scary_stories/scary_story.html",
@@ -16,6 +17,7 @@
       "/posts/019_vsfs/019_vsfs.html",
       "/posts/018_combatting_illiteracy/combatting_illiteracy.html",
       "/posts/017_wheres_waldo/wheres_waldo.html",
+      "/posts/031_peeling_back_the_layers/peeling_back_the_layers.html",
       "/posts/016_tilly_norwood/tilly_norwood.html",
       "/posts/015_disney_kids/disney_kids.html",
       "/posts/014_healthy_habits/healthy_habits.html",
@@ -27,6 +29,7 @@
       "/posts/008_apple_vs_samsung/apple_vs_samsung.html",
       "/posts/007_animation_style/animation_style.html",
       "/posts/006_jeans_wars/jeans_wars.html",
+      "/posts/030_starting_the_unmasking/starting_the_unmasking.html",
       "/posts/005_influencer_branding/influencer_branding.html",
       "/posts/004_skincare_routine/skincare_routine.html",
       "/posts/003_zodiac_sign/zodiac_sign.html",
